@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "464612984903",
+    "firebase_url": "https://android-chat-app-9b4d6-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "android-chat-app-9b4d6",
+    "storage_bucket": "android-chat-app-9b4d6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:464612984903:android:c8f415ae9348ffa7890962",
+        "android_client_info": {
+          "package_name": "com.fredrikbogg.android_chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "464612984903-6ret9pp121q3p2avjp3r70l8gis56rrn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzn-5D5JVjAABrBSKudWR6kKYZKPb3bpI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "464612984903-6ret9pp121q3p2avjp3r70l8gis56rrn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
